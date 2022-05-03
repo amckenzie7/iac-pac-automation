@@ -1,7 +1,7 @@
 {
 	"cloudType": "gcp",
 	"complianceMetadata": [],
-	"description": "AMac - Custom GCP Policy",
+	"description": "Custom GCP Policy",
 	"labels": [],
 	"name": "AMac - Custom GCP Policy",
 	"policySubTypes": ["build"],
